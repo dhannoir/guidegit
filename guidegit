@@ -1,4 +1,6 @@
 git status (pour savoir ce qui se passe dans le répertoire courant)
+git init (pour initialiser le répertoire courant)
 git add nomdefichier (pour ajouter "nomdefichier" dans la liste des fichiers gérés par git)
+git add . (pour ajouter tous les fichiers du répertoire pour le prochain commit)
 git commit -m "message" (pour valider les dernière modifs avec un message explicatif)
 git log (pour visionner l'hitorique, faire "q" pour quitter)
