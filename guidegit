@@ -5,5 +5,4 @@ git add . (pour ajouter tous les fichiers du répertoire pour le prochain commit
 git commit -m "message" (pour valider les dernière modifs avec un message explicatif)
 git commit -a -m "message" (pour valider sans faire "add" toutes les modifs de tous les fichiers déjà indexés dans git)
 git log (pour visionner l'hitorique, faire "q" pour quitter)
-Une bêtise
 git checkout 'sha' (revenir à une version précédente)
