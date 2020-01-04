@@ -6,3 +6,5 @@ git commit -m "message" (pour valider les dernière modifs avec un message expli
 git commit -a -m "message" (pour valider sans faire "add" toutes les modifs de tous les fichiers déjà indexés dans git)
 git log (pour visionner l'hitorique, faire "q" pour quitter)
 git checkout 'sha' (revenir à une version précédente)
+git branch mabranche (pour créer une branche)
+git checkout -b mabranche (pour créer et se positionner sur la branche en même temps)
