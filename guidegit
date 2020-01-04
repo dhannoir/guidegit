@@ -6,3 +6,4 @@ git commit -m "message" (pour valider les dernière modifs avec un message expli
 git commit -a -m "message" (pour valider sans faire "add" toutes les modifs de tous les fichiers déjà indexés dans git)
 git log (pour visionner l'hitorique, faire "q" pour quitter)
 Une bêtise
+git checkout 'sha' (revenir à une version précédente)
